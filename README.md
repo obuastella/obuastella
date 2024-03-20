@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obuastella
 - 👀 I’m a Software Engineer
 - 🌱 I’m currently learning anything i can lay my hands on 😁
-- 💞️ I’m looking to collaborate on any project 😋.
+- 💞️ I’m looking to collaborate on any project 😋
 - 📫 How to reach me stellaobua123@gmail.com.
 
 <!---
